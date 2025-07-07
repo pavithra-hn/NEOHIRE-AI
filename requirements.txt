@@ -9,4 +9,5 @@ pdfminer.six==20221105
 wordcloud==1.9.2
 transformers==4.26.1
 huggingface_hub==0.13.4
-torch==2.0.1
+torch==2.0.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
