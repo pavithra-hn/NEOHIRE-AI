@@ -298,10 +298,6 @@ Main Streamlit application with UI components and orchestration logic.
 - Update documentation
 - Test with sample data
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **OpenAI** for GPT models
@@ -312,9 +308,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/enhanced-resume-analyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/enhanced-resume-analyzer/discussions)
-- **Email**: support@yourcompany.com
+- **Issues**: [GitHub Issues](https://github.com/pavithra-hn/NEOHIRE-AI/issues)
+- **Email**: pavithrahn56@gmail.com
 
 ## 🔄 Changelog
 
