@@ -104,7 +104,7 @@ The application will open in your browser at `http://localhost:8501`
 The application supports multiple AI models:
 - **Base Model**: `all-MiniLM-L6-v2` (Sentence Transformers)
 - **ChatGPT**: `gpt-3.5-turbo` or `gpt-4`
-- **Gemini**: `gemini-pro` or `gemini-pro-vision`
+- **Gemini**: `gemini-2.5 pro` or `gemini-pro-vision`
 
 ## 💡 Usage
 
